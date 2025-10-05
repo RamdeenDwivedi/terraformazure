@@ -3,6 +3,7 @@ trigger:
   branches:
     include:
     - master
+    - devlop # Adjust to your branch names
   paths:
     include:
     - 101-terraform-job/
